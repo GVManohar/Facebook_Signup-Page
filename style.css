@@ -1,0 +1,107 @@
+@media (max-width: 767px) {
+    .login {
+    height: 580px;
+}
+.login .content {
+    padding: 0 !important;
+}
+.nav {
+    padding-bottom: 0px !important;
+}
+.nav .icon img {
+    width: 35%;
+}
+.nav .btn {
+    margin-top: -30px;
+    }
+.nav button.btn.btn-primary {
+    font-size: 11px !important;
+}
+.login .content h1 {
+    font-size: 20px;
+    margin-top: 14px;
+}
+button.btn.btn-success {
+    padding: 5px 20px !important;
+    font-size: 14px;
+}
+}
+
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .login .content {
+        padding: 0;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+.icon i.fa.fa {
+    padding-left: 45px;
+    box-shadow: 0 0.125rem 0.3rem -0.0625rem #e9ecef, 0 0.275rem 0.75rem -0.0625rem #e9ecef;
+    color: #4867aa;
+    font-size: 10rem;
+    box-shadow: beige;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 25rem;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.icon i.fa.fa:hover{
+	background-color: #4867aa;
+	color: #fff;
+	
+}
+.nav {
+    background-color: #4867aa;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav .btn {
+    padding-top: 10px;
+}
+.nav button.btn.btn-primary {
+    font-size: 14px;
+    padding: 5px 5px;
+}
+.content {
+	padding: 1rem 22rem;
+}
+.content .heading {
+    padding-bottom: 1rem;
+}
+.content .input {
+	    
+	display: flex;
+}
+.content .date h8 {
+    font-family: sans-serif;
+    font-weight: 600;
+    color:#9f9c9c;
+    font-size: 16px;
+}
+.gen {
+    font-weight: 500;
+}
+.content .gen h8 {
+    font-family: sans-serif;
+    font-weight: 600;
+    color:#9f9c9c;
+    font-size: 16px;
+}
+.content .p p {
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #949495;
+    width: 92%;
+}
